@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "FH-RC-CPC: Minimum-Cost Retention of Model Predictive Control Policies under Changing Qualification Requirements"
+version: "3.0.0"
+date-released: 2026-09-05
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Tengfei"
+  - family-names: "Shao"
+    given-names: "Zhuang"
+  - family-names: "Zhang"
+    given-names: "GuangTao"
+  - family-names: "Zheng"
+    given-names: "Liang"
+  - family-names: "Dong"
+    given-names: "Wenxuan"
+  - family-names: "Xu"
+    given-names: "Shaojie"
+  - family-names: "Xu"
+    given-names: "Xubin"
+license: MIT
+repository-code: "https://github.com/tflee0613/FH-RC-CPC"
